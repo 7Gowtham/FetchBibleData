@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#chapter12,#chapter13 {
+    display: none;
+}
+
+.navbar-brand, .nav-link {
+    color: #007bff !important;
+}
+
+.nav-link:hover {
+    color: #0056b3 !important;
+}
+
+.card {
+    border: 1px solid #dee2e6;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+h2 {
+    margin-top: 1rem;
+}
+
+.color-a{
+    color: black !important; 
+}
+
+#romans, #chapter12,#chapter13 {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.bg-color{
+    background-color: lightgray;
+}
